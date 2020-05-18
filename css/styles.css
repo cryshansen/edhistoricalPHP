@@ -1,0 +1,270 @@
+/* CSS Document */
+
+body{
+background-color:#253869;
+font-family: "Times New Roman", Times, serif;
+
+}
+img a{
+	border:0;
+	color:none;
+	text-decoration:none;
+}
+.main{
+	width:880px;
+	margin: 0px auto;
+	padding:0px;
+	background-color: #B9CAF8;
+	background-image:url(../images/content_bckgrd.jpg);
+	background-repeat:repeat-y;
+	
+}
+.header{
+	height:198px;
+	margin:0px;
+	padding:0px;
+	background-image: url(../images/Header2.jpg);
+
+	background-repeat:no-repeat;
+}
+.login{
+	float:right;
+	margin: 125px 10px 0px 0px;
+	margin-top: 150px;
+
+}
+.login form{
+	text-align:right;
+}
+
+.login input{
+	padding: 1px;
+}
+.login #btn{
+ 	margin-left: 4px;
+	padding: 1px;
+	border: 1px solid #006;
+    background: #ccf;
+}
+.login #btn:hover {
+    border: 1px solid #006;
+    background: #eef;
+}
+#navcontainer
+{
+	float:right;
+	padding: 0;
+	background: #ccf;
+	height: 20px;
+}
+
+#navlist
+{
+	color:#253869;
+	margin: 0px;
+	padding: 0px 0px;
+	display: block;
+}
+
+#navlist li
+{
+	list-style: none;
+	float: left;
+}
+
+#navcontainer a, #navlist li.extend
+{
+	margin: 0px;
+	display: block;
+	border-top: 1px solid #006;
+	padding: 1px 6px;
+	text-decoration: none;
+	background: #B9CAF8;/*003366*/
+	font: normal 12px verdana, serif;
+	color: #000;
+}
+
+#navcontainer a:hover, #navcontainer a#current
+{
+	padding: 1px 5px;
+	background: #FAFAFA;
+	border-right: 1px solid #006;
+	border-left: 1px solid #006;
+	border-top: 1px solid #FAFAFA;
+	border-bottom: 1px solid #006;
+	color: #000;
+}
+
+#navcontainer a#current
+{
+	background: #ccd4e1;
+	border-top: 1px solid #F6F6F6;
+	font-weight: bold;
+}
+
+#navcontainer li#active
+{
+	border-right: 2px solid #99a8c5;
+	border-bottom: 2px solid #99a8c5;
+}
+
+
+/*/*---------------------------------------    			LEFT CONTENT                  ---------------------------------------------------*/
+.mainleft{
+	float:left;
+	width:585px;
+	margin:0px;
+	padding:0px;
+	background-color: #B9CAF8;
+}
+.innerleft{
+	margin:0px;
+	padding:15px;
+
+}
+img {
+
+	float:right;
+
+}
+form{
+	font-size:.9em;
+}
+ input{
+	padding: 1px;
+}
+input.file {
+ 	margin-left: 4px;
+	padding: 1px;
+	border: 1px solid #006;
+    background: #ccf;
+}
+.btton{
+ 	margin-left: 4px;
+	padding: 1px;
+	border: 1px solid #006;
+    background: #ccf;
+}
+.btton:hover {
+    border: 1px solid #006;
+    background: #eef;
+}
+table {
+	margin:0px;
+	padding:0px;
+}
+table tr th{
+	text-align:left;
+	background-color:#ccf;
+	padding: 5px;
+
+}
+table td{
+	padding:5px;
+}
+.img_checks{
+font-size:.75em;
+}
+.img_checks img{
+	float:left;
+	border:0;
+}
+/*---------------------------------------    			RIGHT CONTENT                  ---------------------------------------------------*/
+
+.mainright{
+	float:left;
+	width:295px;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	background-color: #003366;
+
+}
+
+#r_content{
+	margin:0px;
+	margin-top:35px;
+	padding:0px;
+	font-size:.8em;
+	color:#FFFFFF;
+
+}
+#r_content p{
+padding-left: 10px;
+}
+#r_content table{
+padding-left: 10px;
+}
+
+#r_content h4{
+	margin:0px;
+	padding: 10px 0px 10px 35px;
+}
+hr{
+ 	border: 1px dotted #ccf;
+}
+
+#r_content ul
+{ 
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	font-family: verdana, arial, Helvetica, sans-serif;
+}
+
+#r_content li { margin: 0 0 1px 0; }
+
+#r_content a
+{
+	display: block;
+	padding: 5px 10px;
+	width: 275px;
+	color: #fff;
+	background-color: #036;
+	text-decoration: none;
+}
+
+#r_content a:hover
+{
+	color: #fff;
+	background-color: #69C;
+	text-decoration: none;
+}
+
+#r_content ul ul li { margin: 0 0 1px 0; }
+
+#r_content ul ul a
+{
+	display: block;
+	padding: 5px 5px 5px 30px;
+	width: 260px;
+	color: #fff;
+	background-color: #369;
+	text-decoration: none;
+}
+
+#r_content ul ul a:hover
+{
+	color: #fff;
+	background-color: #69C;
+	text-decoration: none;
+}
+
+/*------------------------------------------------ FOOTER  ---------------------------------------------------*/
+.footer{
+	background-color:#466594;
+	font-size:.8em;
+	margin: 0px;
+	padding:10px;
+}
+.fmenu{
+	float:right;
+	background-color:#466594;
+
+}
+.fmenu p{
+	display:block;
+	text-decoration:none;
+	list-style-type:none;
+	padding-bottom: 0px;
+}
