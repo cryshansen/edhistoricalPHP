@@ -1,0 +1,4 @@
+[03-Dec-2009 03:29:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ncapsule/public_html/edmhistorical/admin/apps/plaque/getlandmark.php on line 18
+[04-Dec-2009 01:34:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ncapsule/public_html/edmhistorical/admin/apps/plaque/getlandmark.php on line 18
+[04-Dec-2009 04:07:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ncapsule/public_html/edmhistorical/admin/apps/plaque/getlandmark.php on line 18
+[04-Dec-2009 04:13:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ncapsule/public_html/edmhistorical/admin/apps/plaque/getlandmark.php on line 18
