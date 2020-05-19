@@ -1,5 +1,5 @@
 # edhistoricalPHP
-School team Project lab 2009  Team of 5 people learning php in a website logging historical buildings into a mysql database. 
+Team Lead on Nait Project 2009  Team of 5 people taught php via a website logging historical buildings into a mysql database. 
 
 Lead of team of CST students in our final year lab project. This was a site developed for the POWA of city historical sites. 
 It has a google map api for longitude and latitude specs for a front end web interface for anyone searching the city for a historical building. 
